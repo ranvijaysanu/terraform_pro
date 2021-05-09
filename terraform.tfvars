@@ -1,0 +1,5 @@
+rg_name = "st-rg"
+location = "eastus"
+storage_account_name = "mystaccount2608"
+account_tier = "Standard"
+account_replication_type = "LRS"
